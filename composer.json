@@ -1,0 +1,12 @@
+{
+    "name": "ndbroadbent/formapi-php-test",
+    "authors": [
+        {
+            "name": "Nathan Broadbent",
+            "email": "git@ndbroadbent.com"
+        }
+    ],
+    "require": {
+        "formapi/formapi": "*"
+    }
+}
